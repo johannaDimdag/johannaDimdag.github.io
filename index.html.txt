@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My UX Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My UX Portfolio</h1>
+        <!-- Add navigation links here -->
+    </header>
+    <main>
+        <section id="projects">
+            <h2>My Projects</h2>
+            <!-- Add project images and descriptions here -->
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <!-- Add information about yourself here -->
+        </section>
+        <!-- Add more sections as needed -->
+    </main>
+    <footer>
+        <!-- Add footer content here -->
+    </footer>
+</body>
+</html>
