@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Website</title>
+    <title>Johanna - Personal Website</title>
     <!-- Add your own CSS link here -->
     <style>
         /* Add your CSS styles here */
